@@ -1,11 +1,19 @@
 # GesturePad — Hand-Gesture Browser Control
 
+<p align="center">
+  <img src="promo/logo.png" alt="GesturePad logo mark" width="150">
+</p>
+
 **Wave, pinch, swipe — your hand becomes the mouse.** GesturePad turns your webcam into a
 touchless controller: it tracks 21 hand landmarks with MediaPipe, classifies 8 gestures with a
 pure-geometry engine, and can drive real browser actions (back, forward, reload, new tab,
 duplicate, tab cycling) — all running 100% locally.
 
 No video ever leaves your machine. The only permission is `storage` (to remember your tuning).
+
+<p align="center">
+  <img src="promo/software-box.png" alt="GesturePad software box render" width="360">
+</p>
 
 ![GesturePad](docs/screenshot.png)
 
