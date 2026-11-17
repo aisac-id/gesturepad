@@ -1,7 +1,7 @@
 # GesturePad — Hand-Gesture Browser Control
 
 <p align="center">
-  <img src="promo/logo.png" alt="GesturePad logo mark" width="150">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="promo/logo-white.png"><img src="promo/logo.png" alt="GesturePad logo mark" width="150"></picture>
 </p>
 
 **Wave, pinch, swipe — your hand becomes the mouse.** GesturePad turns your webcam into a
@@ -171,6 +171,7 @@ icons/ docs/ promo/
 | Asset | File |
 |---|---|
 | Logo | `promo/logo.png` |
+| Logo (dark mode) | `promo/logo-white.png` |
 | Software box | `promo/software-box.png` |
 | Poster | `promo/poster.png` |
 | Banner | `promo/banner.png` |
